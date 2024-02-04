@@ -14,7 +14,7 @@
 <a href="https://www.linkedin.com/in/soujanya-s-2a9729165?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soujanya sengupta" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/tintinsengod24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="soujanya sengupta" height="30" width="40" /></a>
 </p>
-<h1>Experience 💼</h1>
+<h2 align="center">Experience 💼</h2>
 
 <h4>Intern - Delivery at Virtusa (May 2023 - Aug 2023)Responsible for managing the CRUD operations for the Pharmacy part in a Hospital Management System project.Utilized React and Spring Boot for project development.Implemented OTP authentication using Google Firebase.</h4>
 
