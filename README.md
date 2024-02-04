@@ -4,7 +4,8 @@
 I'm an Electronics and Communication graduate, passionate about learning and implementing both existing and new skills. With a background in electronics, I've transitioned into the world of software development and thrive on challenges that come with it. I hold the Oracle Certified Java Associate (OCJA SE8) certification.
 
 ## Skills📝
-- Java
+- Core Java ( OCJA SE8
+CERTIFIED )
 - Spring
 - JavaScript
 - React
